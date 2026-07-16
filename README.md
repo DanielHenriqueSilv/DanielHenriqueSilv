@@ -113,9 +113,9 @@ Me chamo Daniel Henrique, sou natural do Brasil 🇧🇷 e atuo como Pesquisador
 <h3 align="left">GitHub Stats</h3>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DanielHenriqueSilv&show_icons=true&locale=pt-br&theme=dark&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DanielHenriqueSilv&show_icons=true&theme=dark&hide_border=true"/>
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHenriqueSilv&layout=compact&theme=dark&hide_border=true&langs_count=8"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHenriqueSilv&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
 <br>
@@ -130,20 +130,29 @@ Me chamo Daniel Henrique, sou natural do Brasil 🇧🇷 e atuo como Pesquisador
 
 ## 🛡️ Security Expertise
 
-<div align="center">
+**🌐 Web Security**
 
-| Domain | Tools & Focus |
-|--------|---------------|
-| 🌐 **Web Security** | OWASP Top 10, Burp Suite, SQLi, XSS, SSRF |
-| 🔎 **Bug Bounty** | Recon automation, subdomain enumeration, API testing |
-| 🔬 **Reverse Engineering** | Static/dynamic analysis, IDA Pro, Ghidra, x64dbg |
-| 🤖 **AI Security** | LLM jailbreaking, prompt injection, model extraction |
-| 🐧 **Linux** | Kernel exploitation, privilege escalation, hardening |
-| 🌎 **Networking** | TCP/IP, packet analysis, Wireshark, network pivoting |
-| 🎯 **Malware Analysis** | Sandboxing, behavioral analysis, IOC extraction |
-| ⚙️ **OSINT** | Passive reconnaissance, threat intelligence |
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-1E293B?style=flat-square) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-1E293B?style=flat-square) ![SQLi](https://img.shields.io/badge/SQLi-1E293B?style=flat-square) ![XSS](https://img.shields.io/badge/XSS-1E293B?style=flat-square) ![SSRF](https://img.shields.io/badge/SSRF-1E293B?style=flat-square)
 
-</div>
+**🔎 Bug Bounty**
+
+![Recon Automation](https://img.shields.io/badge/Recon_Automation-1E293B?style=flat-square) ![Subdomain Enum](https://img.shields.io/badge/Subdomain_Enumeration-1E293B?style=flat-square) ![API Testing](https://img.shields.io/badge/API_Testing-1E293B?style=flat-square)
+
+**🔬 Reverse Engineering**
+
+![Static Analysis](https://img.shields.io/badge/Static%2FDynamic_Analysis-1E293B?style=flat-square) ![IDA Pro](https://img.shields.io/badge/IDA_Pro-1E293B?style=flat-square) ![Ghidra](https://img.shields.io/badge/Ghidra-1E293B?style=flat-square) ![x64dbg](https://img.shields.io/badge/x64dbg-1E293B?style=flat-square)
+
+**🤖 AI Security**
+
+![LLM Jailbreaking](https://img.shields.io/badge/LLM_Jailbreaking-1E293B?style=flat-square) ![Prompt Injection](https://img.shields.io/badge/Prompt_Injection-1E293B?style=flat-square) ![Model Extraction](https://img.shields.io/badge/Model_Extraction-1E293B?style=flat-square)
+
+**🐧 Linux & Networking**
+
+![Kernel Exploitation](https://img.shields.io/badge/Kernel_Exploitation-1E293B?style=flat-square) ![Privilege Escalation](https://img.shields.io/badge/Privilege_Escalation-1E293B?style=flat-square) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-1E293B?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1E293B?style=flat-square)
+
+**🎯 Malware Analysis & OSINT**
+
+![Sandboxing](https://img.shields.io/badge/Sandboxing-1E293B?style=flat-square) ![Behavioral Analysis](https://img.shields.io/badge/Behavioral_Analysis-1E293B?style=flat-square) ![IOC Extraction](https://img.shields.io/badge/IOC_Extraction-1E293B?style=flat-square) ![Threat Intel](https://img.shields.io/badge/Threat_Intelligence-1E293B?style=flat-square)
 
 ---
 
