@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Daniel Henrique, sou natural do Brasil 🇧🇷 e atuo como Pesquisador de Segurança da Informação. Sou apaixonado por Offensive Security, Reverse Engineering, Malware Analysis e AI/LLM Security, além de caçador de Bug Bounty focado em vulnerabilidades web e API. Gosto de CTFs, Red Team e explorar novos vetores de ataque envolvendo Inteligência Artificial.
+Me chamo Daniel Henrique, sou natural do Brasil 🇧🇷 e atuo como Pesquisador de Segurança da Informação. Sou fascinado por Offensive Security, Reverse Engineering, Malware Analysis e AI/LLM Security, além de caçador de Bug Bounty focado em vulnerabilidades web e API. Gosto de CTFs, Red Team e explorar novos vetores de ataque envolvendo Inteligência Artificial.
 
 #
 
