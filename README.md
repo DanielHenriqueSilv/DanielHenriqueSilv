@@ -113,9 +113,9 @@ Me chamo Daniel Henrique, sou natural do Brasil 🇧🇷 e atuo como Pesquisador
 <h3 align="left">GitHub Stats</h3>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DanielHenriqueSilv&show_icons=true&locale=pt-br&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DanielHenriqueSilv&show_icons=true&locale=pt-br&theme=dark&hide_border=true"/>
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHenriqueSilv&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHenriqueSilv&layout=compact&theme=dark&hide_border=true&langs_count=8"/>
 </div>
 
 <br>
