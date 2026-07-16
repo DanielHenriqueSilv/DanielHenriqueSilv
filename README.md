@@ -1,82 +1,144 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A5F,100:1E1B4B&text=Daniel%20Henrique&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Information%20Security%20Researcher&descAlignY=55&descSize=18"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Offensive+Security+%26+Penetration+Testing;Reverse+Engineering+%26+Malware+Analysis;AI+%2F+LLM+Security+Research;Bug+Bounty+Hunter"/>
-</div>
+#
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanielHenriqueSilv&style=flat-square&color=1E293B&label=Profile+Views"/>
-  <img src="https://img.shields.io/github/followers/DanielHenriqueSilv?style=flat-square&color=1E293B&label=Followers&logo=github&logoColor=white"/>
-</div>
+Me chamo Daniel Henrique, sou natural do Brasil 🇧🇷 e atuo como Pesquisador de Segurança da Informação. Sou apaixonado por Offensive Security, Reverse Engineering, Malware Analysis e AI/LLM Security, além de caçador de Bug Bounty focado em vulnerabilidades web e API. Gosto de CTFs, Red Team e explorar novos vetores de ataque envolvendo Inteligência Artificial.
 
-<br>
+#
 
-<table>
-<tr>
-<td width="66%" valign="top">
+<img align="right" alt="" height="190px" src="https://images.stockcake.com/public/d/e/f/def8e786-c723-4e47-b043-73fb1a112046_medium/neon-code-defender-stockcake.jpg">
 
-Pesquisador de segurança da informação no Brasil 🇧🇷, atuando com **Offensive Security**, **Penetration Testing**, **Reverse Engineering**, **Malware Analysis** e **AI/LLM Security**. Também sou caçador de **Bug Bounty**, focado em vulnerabilidades web e API, e desenvolvedor Python voltado para automação ofensiva. Gosto de CTFs, Red Team e explorar novos vetores de ataque envolvendo Inteligência Artificial.
+<h3 align="left">Connect with me!</h3>
 
-<br>
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:seuemail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/daniel-henriquesilv/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/snuup___/)
 
-**Connect with me**
 
-<a href="mailto:seuemail@example.com"><img src="https://cdn.simpleicons.org/gmail/94A3B8" width="28"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/daniel-henriquesilv/"><img src="https://cdn.simpleicons.org/linkedin/94A3B8" width="28"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/snuup___/"><img src="https://cdn.simpleicons.org/instagram/94A3B8" width="28"/></a>
+<h3 align="left">My Stack ~</h3>
 
-<br><br>
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bash" 
+    title="Bash"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<br/>
+<br/>
 
-**Tech Stack**
+<h3 align="left">GitHub Stats</h3>
 
-<img src="https://cdn.simpleicons.org/python/94A3B8" width="26"/>
-<img src="https://cdn.simpleicons.org/javascript/94A3B8" width="26"/>
-<img src="https://cdn.simpleicons.org/typescript/94A3B8" width="26"/>
-<img src="https://cdn.simpleicons.org/react/94A3B8" width="26"/>
-<img src="https://cdn.simpleicons.org/nodedotjs/94A3B8" width="26"/>
-<img src="https://cdn.simpleicons.org/docker/94A3B8" width="26"/>
-<img src="https://cdn.simpleicons.org/linux/94A3B8" width="26"/>
-<img src="https://cdn.simpleicons.org/mongodb/94A3B8" width="26"/>
-<img src="https://cdn.simpleicons.org/mysql/94A3B8" width="26"/>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=DanielHenriqueSilv&show_icons=true&locale=pt-br&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics&count_private=true"
+  />
 
-</td>
-<td width="34%" valign="top" align="center">
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHenriqueSilv&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  />
 
-<img width="100%" src="https://images.stockcake.com/public/d/e/f/def8e786-c723-4e47-b043-73fb1a112046_medium/neon-code-defender-stockcake.jpg" style="border-radius:8px"/>
+</p>
 
-</td>
-</tr>
-</table>
+<br clear="left"/>
 
----
-
-## 👤 About Me
-
-```yaml
-name: Daniel Henrique
-role: Information Security Researcher
-location: Brazil 🇧🇷
-
-focus:
-  - Offensive Security & Penetration Testing
-  - Reverse Engineering & Malware Analysis
-  - Artificial Intelligence & LLM Security
-  - Bug Bounty & Vulnerability Research
-
-currently:
-  - Building: Security automation tools in Python
-  - Learning: Advanced malware analysis techniques
-  - Researching: AI/LLM attack surfaces & prompt injection
-  - Hunting: Web & API vulnerabilities on bug bounty programs
-
-interests:
-  - CTF competitions
-  - Open-source security tooling
-  - Red Team operations
-  - AI-driven attack vectors
-```
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielHenriqueSilv/DanielHenriqueSilv/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielHenriqueSilv/DanielHenriqueSilv/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanielHenriqueSilv/DanielHenriqueSilv/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -95,48 +157,6 @@ interests:
 | 🎯 **Malware Analysis** | Sandboxing, behavioral analysis, IOC extraction |
 | ⚙️ **OSINT** | Passive reconnaissance, threat intelligence |
 
-</div>
-
----
-
-## ⚡ Tech Stack
-
-**Languages**
-
-<img width="40" src="https://cdn.simpleicons.org/python/3776AB"/> <img width="40" src="https://cdn.simpleicons.org/openjdk/ED8B00"/> <img width="40" src="https://cdn.simpleicons.org/javascript/F7DF1E"/> <img width="40" src="https://cdn.simpleicons.org/typescript/3178C6"/> <img width="40" src="https://cdn.simpleicons.org/gnubash/4EAA25"/> <img width="40" src="https://cdn.simpleicons.org/c/00599C"/>
-
-**Web & APIs**
-
-<img width="40" src="https://cdn.simpleicons.org/react/61DAFB"/> <img width="40" src="https://cdn.simpleicons.org/nodedotjs/339933"/> <img width="40" src="https://cdn.simpleicons.org/fastapi/009688"/>
-
-**Infrastructure**
-
-<img width="40" src="https://cdn.simpleicons.org/docker/2496ED"/> <img width="40" src="https://cdn.simpleicons.org/linux/FCC624"/> <img width="40" src="https://cdn.simpleicons.org/git/F05032"/>
-
-**Databases**
-
-<img width="40" src="https://cdn.simpleicons.org/mongodb/47A248"/> <img width="40" src="https://cdn.simpleicons.org/mysql/4479A1"/>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DanielHenriqueSilv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHenriqueSilv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img width="96%" src="https://streak-stats.demolab.com?user=DanielHenriqueSilv&theme=tokyonight&hide_border=true"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=DanielHenriqueSilv&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
