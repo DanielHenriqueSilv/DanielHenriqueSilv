@@ -15,6 +15,8 @@ Me chamo Daniel Henrique, sou natural do Brasil 🇧🇷 e atuo como Pesquisador
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color=FFF)](mailto:seuemail@example.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/daniel-henriquesilv/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color=FFF)](https://www.instagram.com/snuup___/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=F1F1F1&color=FFF)](https://github.com/DanielHenriqueSilv)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF0000&color=FFF)](https://www.youtube.com/@snuupyyy8758)
 
 <h3 align="left">My Stack ~</h3>
 
