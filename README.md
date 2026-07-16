@@ -110,21 +110,50 @@ Me chamo Daniel Henrique, sou natural do Brasil 🇧🇷 e atuo como Pesquisador
 <br clear="left"/>
 <br/>
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="left">🐍 Contribution Snake</h3>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DanielHenriqueSilv&show_icons=true&theme=dark&hide_border=true"/>
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHenriqueSilv&layout=compact&theme=dark&hide_border=true"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielHenriqueSilv/DanielHenriqueSilv/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielHenriqueSilv/DanielHenriqueSilv/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanielHenriqueSilv/DanielHenriqueSilv/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
-<br>
+<details>
+<summary><sub>⚙️ Como ativar a snake (clique para expandir)</sub></summary>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielHenriqueSilv/DanielHenriqueSilv/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielHenriqueSilv/DanielHenriqueSilv/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanielHenriqueSilv/DanielHenriqueSilv/output/github-contribution-grid-snake.svg">
-</picture>
+Crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil (`DanielHenriqueSilv/DanielHenriqueSilv`) com o conteúdo abaixo. O GitHub Action roda a cada 12h e gera o SVG animado a partir do seu gráfico de contribuições.
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Depois de rodar pela primeira vez, a animação acima passa a aparecer automaticamente.
+
+</details>
 
 ---
 
