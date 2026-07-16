@@ -51,4 +51,3 @@ Me chamo Daniel Henrique, sou natural do Brasil 🇧🇷 e atuo como Pesquisador
 </p>
 <br clear="left"/>
 <br/>
-
