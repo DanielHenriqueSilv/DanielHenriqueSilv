@@ -13,7 +13,7 @@ Me chamo Daniel Henrique, sou natural do Brasil 🇧🇷 e atuo como Pesquisador
 <h3 align="left">Connect with me!</h3>
 
 <a href="mailto:seuemail@example.com"><img width="40" src="https://cdn.simpleicons.org/gmail/EA4335"/></a>
-<a href="https://www.linkedin.com/in/daniel-henriquesilv/"><img width="40" src="https://cdn.simpleicons.org/linkedin/0A66C2"/></a>
+<a href="https://www.linkedin.com/in/daniel-henriquesilv/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
 <a href="https://www.instagram.com/snuup___/"><img width="40" src="https://cdn.simpleicons.org/instagram/E4405F"/></a>
 <a href="https://github.com/DanielHenriqueSilv"><img width="40" src="https://cdn.simpleicons.org/github/F1F1F1"/></a>
 <a href="https://www.youtube.com/@snuupyyy8758"><img width="40" src="https://cdn.simpleicons.org/youtube/FF0000"/></a>
